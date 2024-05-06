@@ -1,4 +1,4 @@
-#### Real-Time-Intrusion-Detection-System
+#### Intrusion-Detection-System
 #####  An intrusion detection system (IDS) is a tool for spotting unusual activity in network traffic and sending out alerts when it is found. It is software that checks a system or network for malicious activities and detects the spam parameters using machine learning models. The IoT dataset used for experiments, is pre-processed by using feature engineering procedure. By experimenting the framework with machine learning models, each appliance is awarded with a spam score. This refines the conditions to be taken for successful working on devices in a smart home.
 
 
