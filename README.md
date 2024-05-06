@@ -26,7 +26,7 @@
 - Random forest classifier
 - Decision tree
 
-#### Problem Statement :
+#### Problem statement :
 ##### To   distinguish   the   activities   of   the   network   traffic   the   intrusion   and   normal   is very difficult and to need much time-consuming. An analyst must review all the large and wide data to find the sequence of intrusion on the network connection. Therefore, it needs a way to detect network intrusion to reflect current network traffic. The above-mentioned is achieved with the help of a real-time intrusion prevention system based on machine learning algorithms, which makes it flexible with all types of variant attacks.
 
 ##### Proposed system:
